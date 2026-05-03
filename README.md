@@ -22,17 +22,10 @@ I'm a full-stack developer who loves building web applications. from the ground 
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
 
-| **[GetMeAChai](https://github.com/Yvuraj001/GetMeAChai)** | A creator support platform — like Buy Me a Coffee, built from scratch. Handles auth, payments & profiles end to end. | Next.js · MongoDB . NextAuth|
-| **[OKish Projects](https://github.com/Yvuraj001/OKish-Projects)** | A playground of experiments, mini-apps & fun projects. | HTML · CSS · JS |
 
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
