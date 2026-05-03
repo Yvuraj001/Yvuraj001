@@ -14,8 +14,8 @@
 
 I'm a full-stack developer who loves building web applications. from the ground up — whether that's a slick frontend experience or a solid backend architecture.
 
--  Currently working on a Chat app with which user can send and recive messages without login hassle with the  help of **Room.**
--  My recent project **[GetMeAChai](https://github.com/Yvuraj001/GetMeAChai)** — a creator support platform
+ 
+-  My recent project **[Bubble-Chat](https://github.com/Yvuraj001/Bubble-Chat)** — a creator support platform
 -  Experimenting with fun stuff at **[OKish Projects](https://github.com/Yvuraj001/OKish-Projects)**
 -  Reach me at **geniusandsmart123@gmail.com**
 -  Hire me : https://www.fiverr.com/s/yv3ZQmq
