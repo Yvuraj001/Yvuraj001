@@ -15,7 +15,7 @@
 I'm a full-stack developer who loves building web applications. from the ground up — whether that's a slick frontend experience or a solid backend architecture.
 
  
--  My recent project **[Bubble-Chat](https://github.com/Yvuraj001/Bubble-Chat)** — a creator support platform
+-  My recent project **[Bubble-Chat](https://github.com/Yvuraj001/Bubble-Chat)** 
 -  Experimenting with fun stuff at **[OKish Projects](https://github.com/Yvuraj001/OKish-Projects)**
 -  Reach me at **geniusandsmart123@gmail.com**
 -  Hire me : https://www.fiverr.com/s/yv3ZQmq
