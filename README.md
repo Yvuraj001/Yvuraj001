@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I'm a full-stack developer who loves building web applications. from the ground up — whether that's a slick frontend experience or a solid backend architecture.
 
@@ -53,16 +53,10 @@ I'm a full-stack developer who loves building web applications. from the ground 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40Yvuraj001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yvuraj001)
+ 
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-geniusandsmart123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geniusandsmart123@gmail.com)
 
 </div>
 
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yvuraj001&label=Profile+Views&color=58a6ff&style=flat-square" alt="profile views" />
-  <br/><br/>
-  <em>Built with curiosity and too many cups of chai ☕</em>
-</div>
