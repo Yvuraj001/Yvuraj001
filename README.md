@@ -29,7 +29,7 @@ I'm a full-stack developer who loves building web applications. from the ground 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
