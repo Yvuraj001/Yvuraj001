@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <em>From hobby to Profession..</em>
+  <em>Full Stack Developer</em>
 </div>
 
 <br/>
