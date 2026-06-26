@@ -28,10 +28,11 @@ I'm a full-stack developer who loves building web applications. from the ground 
 ## Tech Stack
 
 <div align="center">
-[![My Skills](https://skill-icons-plus.vercel.app/api/icons?i=js,react,nextjs,nodejs,express,mongodb,redis,socketio,gsap&theme=dark&perline=8)](https://github.com/davidhwilliams/skill-icons-plus)
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,redis&theme=dark&perline=8" />
+<img src="https://cdn.simpleicons.org/socketdotio/white" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/gsap/88CE02" width="48" height="48" />
 </div>
-
----
+ 
 
 ## 📊 GitHub Stats
 
