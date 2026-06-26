@@ -28,9 +28,7 @@ I'm a full-stack developer who loves building web applications. from the ground 
 ## Tech Stack
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb&theme=dark&perline=8)](https://skillicons.dev)
-
+[![My Skills](https://skill-icons-plus.vercel.app/api/icons?i=js,react,nextjs,nodejs,express,mongodb,redis,socketio,gsap&theme=dark&perline=8)](https://github.com/davidhwilliams/skill-icons-plus)
 </div>
 
 ---
