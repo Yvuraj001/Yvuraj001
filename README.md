@@ -35,7 +35,7 @@ I'm a full-stack developer who loves building web applications. from the ground 
  
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
