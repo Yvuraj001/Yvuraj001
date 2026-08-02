@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&text=Yuvraj&fontColor=ffffff&fontSize=70&animation=fadeIn&stroke=000000&strokeWidth=1" alt="Yuvraj" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=19&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=600&lines=full-stack+developer+%E2%9C%A6;making+cool+things+for+the+web;code.+coffee.+creative+ideas." alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=19&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=600&lines=full-stack+developer;Building+cool+stuff;code.+code.+and+code." alt="Typing intro" />
 
 <br/>
 
@@ -16,12 +16,12 @@
 ## ✦ ABOUT
 
 ```text
-building smooth webApps × solid structure × fun projects
+building webApps  ×  Simple & straight structure  ×  Trying out with fun ideas
 ```
 
 ---
 
-## ✦ TECH STACK
+##  TECH STACK
 
 <div align="center">
 
@@ -34,7 +34,7 @@ building smooth webApps × solid structure × fun projects
 
 ---
 
-## ✦ HIGHLIGHT
+##  PROJECT HIGHLIGHTS
 
 <table align="center">
   <tr>
@@ -65,7 +65,7 @@ building smooth webApps × solid structure × fun projects
 
 ---
 
-## ✦ ME
+##  ME
 
  
 
