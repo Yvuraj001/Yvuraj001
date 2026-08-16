@@ -80,6 +80,4 @@ building webApps  ×  Simple & straight structure  ×  Trying out with fun ideas
 <a href="https://www.fiverr.com/s/yv3ZQmq">
   <img src="https://img.shields.io/badge/Find%20me%20on-Fiverr-0F172A?style=for-the-badge&logo=fiverr&logoColor=1DBF73" alt="Fiverr profile" />
 </a>
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:C084FC,100:F43F5E&height=3&section=footer" width="80%" alt="" />
 </div>
