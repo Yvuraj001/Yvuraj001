@@ -16,7 +16,7 @@
 ## ✦ ABOUT
 
 ```text
-building webApps  ×  Simple & straight structure  ×  Trying out with fun ideas
+Not Much.
 ```
 
 ---
