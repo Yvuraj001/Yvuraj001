@@ -38,16 +38,16 @@ Not Much.
 
 <table align="center">
   <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/Yvuraj001/TBH">
-        <img src="https://cdn.simpleicons.org/github/7C3AED" width="48" alt="TBH" />
+    <td width="34%" align="center">
+      <a href="https://github.com/Yvuraj001/Backend_Server">
+        <img src="https://cdn.simpleicons.org/github/22D3EE" width="48" alt="Backend Server" />
       </a>
       <br/><br/>
-      <strong>TBH</strong>
+      <strong>Backend_Server</strong>
       <br/>
-      <sub>latest build</sub>
+      <sub>Production-ready auth & security backend</sub>
       <br/><br/>
-      <a href="https://github.com/Yvuraj001/TBH">view repository ↗</a>
+      <a href="https://github.com/Yvuraj001/Backend_Server">view repository ↗</a>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/Yvuraj001/Bubble-Chat">
@@ -60,16 +60,16 @@ Not Much.
       <br/><br/>
       <a href="https://github.com/Yvuraj001/Bubble-Chat">explore project ↗</a>
     </td>
-    <td width="34%" align="center">
-      <a href="https://github.com/Yvuraj001/Backend_Server">
-        <img src="https://cdn.simpleicons.org/github/22D3EE" width="48" alt="Backend Server" />
+    <td width="33%" align="center">
+      <a href="https://github.com/Yvuraj001/TBH">
+        <img src="https://cdn.simpleicons.org/github/7C3AED" width="48" alt="TBH" />
       </a>
       <br/><br/>
-      <strong>Backend_Server</strong>
+      <strong>TBH</strong>
       <br/>
-      <sub>Production-ready auth & security backend</sub>
+      <sub>latest build</sub>
       <br/><br/>
-      <a href="https://github.com/Yvuraj001/Backend_Server">view repository ↗</a>
+      <a href="https://github.com/Yvuraj001/TBH">view repository ↗</a>
     </td>
   </tr>
 </table>
